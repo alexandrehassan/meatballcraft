@@ -2885,7 +2885,7 @@
 
 <superfactorymanager:manager>.addTooltip(format.red("Check the questbook for info about ech code block"));
 <superfactorymanager:manager>.addTooltip(format.red("mewmaister really wanted this!"));
-<superfactorymanager:manager>.addTooltip(format.red("NerdySpider wrote the documntation, thanks!"));
+<superfactorymanager:manager>.addTooltip(format.red("NerdySpider wrote the documentation, thanks!"));
 
 
 <superfactorymanager:cable_relay:0>.addTooltip(format.red("Lets a non-block entity like a minecart with chest to be used as a input/output. Just select it as one within a module."));
